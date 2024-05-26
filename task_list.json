@@ -1,0 +1,31 @@
+{
+  "AI": {
+    "ChatGPT-4": {
+      "best_at": [
+        "Conversational fluency across various topics",
+        "Generating creative and engaging responses",
+        "Providing insightful and nuanced explanations",
+        "Understanding context and adapting responses accordingly",
+        "Handling coding tasks, such as algorithm optimization and automation"
+      ]
+    },
+    "Gemini Pro": {
+      "best_at": [
+        "Advanced data analysis and predictive modeling",
+        "Optimizing complex business processes",
+        "Identifying patterns and trends in large datasets",
+        "Automating repetitive tasks with high accuracy",
+        "Enhancing decision-making through data-driven insights"
+      ]
+    },
+    "Claude 3 Opus": {
+      "best_at": [
+        "Creating lifelike virtual environments and simulations",
+        "Emulating human-like behaviors and emotions",
+        "Assisting in psychological counseling and therapy sessions",
+        "Assisting with writing, brainstorming, and idea generation",
+        "Engaging users in immersive virtual reality interactions"
+      ]
+    }
+  }
+}
